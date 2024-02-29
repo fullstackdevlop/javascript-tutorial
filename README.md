@@ -31,12 +31,25 @@
   - continue
   - break
 
-  ### Loops
+### Loops
 
-  - for
-  - while
-  - do…while
-  - for…of
-  - for…in
+- for
+- while
+- do…while
+- for…of
+- for…in
 
 ### Data Types
+
+**String**
+
+<table border="0" width="100%">
+ <tr>
+    <td>length</td>
+    <td>slice()</td>
+ </tr>
+  <tr>
+    <td>substring()</td>
+    <td>substr()</td>
+ </tr>
+</table>

@@ -56,7 +56,7 @@ In this JavaScript Tutorial, we'll learn all the **basics to advanced** topics a
 
 ## Exceptions (Error) Handling
 
-- [Try...Catch...Finally]
+- [Try...Catch...Finally]()
 - [Throw an Exception Statement]()
 - [Utilizing Error Objects]()
 - [Optional Catch Binding]()
@@ -78,46 +78,46 @@ In this JavaScript Tutorial, we'll learn all the **basics to advanced** topics a
 
 ## DOM
 
-- Introduction to DOM
-- Finding HTML Elements
-- Changing HTML Elements
-- Adding and Deleting Elements
-- Adding Events Handlers
-- Finding HTML Objects
-- Form Validation
-- DOM EventListener
+- [Introduction to DOM]()
+- [Finding HTML Elements]()
+- [Changing HTML Elements]()
+- [Adding and Deleting Elements]()
+- [Adding Events Handlers]()
+- [Finding HTML Objects]()
+- [Form Validation]()
+- [DOM EventListener]()
 
 ## BOM
 
-- Window
-- Screen
-- Location
-- History
-- Navigator
-- Popup Alert
-- Timing
-- Cookies
+- [Window]()
+- [Screen]()
+- [Location]()
+- [History]()
+- [Navigator]()
+- [Popup Alert]()
+- [Timing]()
+- [Cookies]()
 
 ## Window
 
-- Window Object
-- Window Console
-- Window History
-- Window Location
-- Window Navigator
-- Window Screen
+- [Window Object]()
+- [Window Console]()
+- [Window History]()
+- [Window Location]()
+- [Window Navigator]()
+- [Window Screen]()
 
 ## Web APIs
 
-- Canvas
-- Console
-- Fetch
-- Fullscreen
-- Geolocation
-- History
-- MediaQueryList
-- Storage
-- Form
+- [Canvas]()
+- [Console]()
+- [Fetch]()
+- [Fullscreen]()
+- [Geolocation]()
+- [History]()
+- [MediaQueryList]()
+- [Storage]()
+- [Form]()
 
 ## Miscellaneous
 
@@ -162,7 +162,7 @@ In this JavaScript Tutorial, we'll learn all the **basics to advanced** topics a
 - [Math Methods: Math.sign, Math.trunc, Math.hypot]()
 - [Object Extensions: Object.assign(), Object.is()]()
 
-## - OOPS (Object Oriented Programmings)
+## OOPS (Object Oriented Programmings)
 
 - [Class]()
 - [Object]()
